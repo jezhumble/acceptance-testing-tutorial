@@ -4,5 +4,5 @@ Dropwizard stuff adapted from https://www.pgrs.net/2016/12/04/dropwizard-can-be-
 
 * brew install chromedriver
 * brew install / upgrade python # install python 3
-* pip3 install selenium
+* pip3 einstall selenium
 

@@ -16,8 +16,8 @@ public class Resource {
 
     @GET
     @Path("/query")
-    public String query(@QueryParam("message") String message) {
-        return "You passed " + message;
+    public QueryView query(@QueryParam("message") String message) {
+        return new QueryView(message);
     }
 
     @POST
