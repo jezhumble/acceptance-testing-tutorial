@@ -4,3 +4,4 @@ target/
 .cache/
 __pycache__/
 *.log
+out/
